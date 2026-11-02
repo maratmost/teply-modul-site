@@ -1,0 +1,3 @@
+# Сайт закрыт от индексации, пока на нём контакты-заглушки (lib/site.ts → CONTACTS.placeholder).
+User-agent: *
+Disallow: /

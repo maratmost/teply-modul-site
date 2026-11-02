@@ -1,0 +1,45 @@
+# Тёплый модуль
+
+> Подбираем модульные дома из Китая и прицепы-дачи российских заводов, считаем цену до вашего участка и разбираем зимнюю комплектацию. Договор и гарантия — у импортёра в России.
+
+Цены — ориентиры рынка России, октябрь 2026. Точную сумму до участка фиксирует договор с импортёром.
+
+## Модульные дома
+
+- [Капсульные дома](https://maratmost.github.io/teply-modul-site/doma/kapsulnye/): 18–19 м² — 1,8–3 млн ₽; 28 м² — 3,05–4,75 млн ₽; 38 м² — 4,2–6 млн ₽. Розничные цены импортёров во Владивостоке и Уссурийске, растаможено, октябрь 2026.
+- [Раздвижные дома](https://maratmost.github.io/teply-modul-site/doma/razdvizhnye/): 20 футов — 700–850 тыс. ₽; 40 футов — 1,05–1,3 млн ₽. Оценка: цена завода $4,3–6,6 тыс. по курсу 90 ₽/$, пошлина 5%, НДС 22%, брокер и работа импортёра. Розничных цен в РФ мало — точную назовёт партнёр.
+- [Складные дома](https://maratmost.github.io/teply-modul-site/doma/skladnye/): 18 м² — 890 тыс. ₽ – 1,67 млн ₽; 36 м² — 1,09–2,27 млн ₽; 72 м² — от 2,79 млн ₽. Цены продавца по комплектациям, выставка в Тольятти, октябрь 2026.
+- [Контейнерные модули](https://maratmost.github.io/teply-modul-site/doma/konteynernye/): 1 модуль 6×3 м — 205–250 тыс. ₽. Оценка: цена завода ≈$1,3 тыс. по курсу 90 ₽/$, пошлина 5%, НДС 22%, работа импортёра. Точную цену называет импортёр.
+- [Коттеджи](https://maratmost.github.io/teply-modul-site/doma/kottedzhi/): 60–120 м² — 4–10 млн ₽. Типичный чек покупателя дома 60–120 м² для постоянного проживания (наш разбор рынка, октябрь 2026). Только индивидуальная смета.
+
+## Дома на колёсах
+
+- [Дома на колёсах: автодома и прицепы](https://maratmost.github.io/teply-modul-site/doma-na-kolesah/)
+- [Прицеп-дача: цены и права категории B](https://maratmost.github.io/teply-modul-site/doma-na-kolesah/pricep-dacha/)
+
+## Инструменты и услуги
+
+- [Калькулятор цены до участка](https://maratmost.github.io/teply-modul-site/kalkulyator/)
+- [Глэмпинг под ключ](https://maratmost.github.io/teply-modul-site/glamping/)
+- [Проверка дома под русскую зиму](https://maratmost.github.io/teply-modul-site/proverka-zimoy/)
+- [Как устроена сделка](https://maratmost.github.io/teply-modul-site/kak-my-rabotaem/)
+- [Источники цен и методика расчёта](https://maratmost.github.io/teply-modul-site/istochniki/)
+
+## Доставка
+
+- [Доставка в Москву и область](https://maratmost.github.io/teply-modul-site/dostavka/moskva/)
+- [Доставка в Петербург и Ленобласть](https://maratmost.github.io/teply-modul-site/dostavka/sankt-peterburg/)
+- [Доставка в Казань](https://maratmost.github.io/teply-modul-site/dostavka/kazan/)
+- [Доставка в Екатеринбург](https://maratmost.github.io/teply-modul-site/dostavka/ekaterinburg/)
+- [Доставка в Новосибирск](https://maratmost.github.io/teply-modul-site/dostavka/novosibirsk/)
+- [Доставка в Иркутск и на Байкал](https://maratmost.github.io/teply-modul-site/dostavka/irkutsk/)
+- [Доставка в Краснодарский край](https://maratmost.github.io/teply-modul-site/dostavka/krasnodar/)
+- [Доставка в Хабаровск](https://maratmost.github.io/teply-modul-site/dostavka/khabarovsk/)
+- [Доставка во Владивосток и по Приморью](https://maratmost.github.io/teply-modul-site/dostavka/vladivostok/)
+
+## Журнал
+
+- [Сколько стоит дом из Китая под ключ в 2026: смета до участка](https://maratmost.github.io/teply-modul-site/zhurnal/skolko-stoit-dom-iz-kitaya/): Из чего складывается цена модульного дома из Китая: завод, фрахт, пошлина 5%, НДС 22%, трал, монтаж. Разбор на примере капсулы 28 м² до Москвы.
+- [Растаможка модульного дома из Китая: код ТН ВЭД, пошлина, НДС](https://maratmost.github.io/teply-modul-site/zhurnal/rastamozhka-modulnogo-doma/): Как растаможить модульный дом: коды 9406 20 и 9406 90, пошлина 5%, НДС 22%, декларации ЕАЭС на электрику и мебель, расходы на брокера.
+- [Автодом или прицеп-дача: что выбрать на права категории B](https://maratmost.github.io/teply-modul-site/zhurnal/avtodom-ili-pricep-dacha/): Что можно водить и буксировать на категории B: автодом до 3,5 т, прицеп до 750 кг или тяжелее при общей массе до 3,5 т. Цены, плюсы и минусы.
+- [25 вопросов поставщику модульного дома перед оплатой](https://maratmost.github.io/teply-modul-site/zhurnal/25-voprosov-postavshchiku/): Чек-лист перед покупкой модульного дома из Китая: компания, цена до участка, зимняя комплектация, договор, гарантия, сроки и оплата.
